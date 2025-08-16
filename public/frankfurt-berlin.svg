@@ -1,0 +1,11 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#3B82F6"/>
+  <path d="M0 600L800 600L800 300C800 300 600 400 400 400C200 400 0 300 0 300L0 600Z" fill="#2563EB" fill-opacity="0.7"/>
+  <rect x="50" y="150" width="150" height="250" fill="#F9FAFB" fill-opacity="0.2"/>
+  <rect x="600" y="150" width="150" height="250" fill="#F9FAFB" fill-opacity="0.2"/>
+  <path d="M200 300 L600 300" stroke="white" stroke-width="10" stroke-dasharray="20 10"/>
+  <circle cx="200" cy="300" r="20" fill="white"/>
+  <circle cx="600" cy="300" r="20" fill="white"/>
+  <text x="200" y="350" font-family="Arial" font-size="20" text-anchor="middle" fill="white">Frankfurt</text>
+  <text x="600" y="350" font-family="Arial" font-size="20" text-anchor="middle" fill="white">Berlin</text>
+</svg>
